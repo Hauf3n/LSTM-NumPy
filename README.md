@@ -1,7 +1,7 @@
 # LSTM-NumPy
  Implementation of LSTM by only using NumPy <br><br>
- This is a Stanford deep learning exercise - [Shakespeare](https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt) as input
- Task: Try to predict the next character given a sequence of text
+ This is a Stanford deep learning exercise - [Shakespeare](https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt) as input. <br>
+ Task: Try to predict the next character given a sequence of text.
  
  # Results
  
